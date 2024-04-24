@@ -210,6 +210,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Linkedin:** [Yegetaneh](https://linkedin.com/in/yegetaneh-firew-995119201)
 - **Bio:** I am Full-Stack Developer 👨‍💻 ||Self-taught Programmer💻 and Javascript💛 .
 
+### Developer 23
+- **Name:** Mohammed Ibrahim (DoughNut)
+- **GitHub:** [MohammedIbrahim](https://github.com/MohammedIbrahim8887)
+- **Website:** https://sanity-portfolio-tau.vercel.app
+- **Bio:** A full-stack coding ninja with 3 years of experience crafting sleek web and mobile apps.
+
 
 ## .NET
 
